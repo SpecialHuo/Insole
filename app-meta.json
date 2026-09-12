@@ -1,1 +1,1 @@
-{"version":"1.0.35","build":36,"file":"insole-app-v1.0.35-36-cd0df5beb0e6.apk","size":18714851,"sha256":"cd0df5beb0e66e3f489fc93503036b67fcdfe5e29fafce8aa88a28b753507da3","notes":"新增实验六：无基线，IC/HO/TO 三种步态事件触发条件随机进行，每组2分钟，自动上传CSV。","published_at":"2026-09-12T00:59:54.0487683Z"}
+{"version":"1.0.35","build":36,"file":"insole-app-v1.0.35-36-3f61267210a2.apk","size":18714851,"sha256":"3f61267210a27898ab8a92c5e9b2e94c6322866cbeb292e04e35cad016f5788e","notes":"新增实验六：无基线，IC/HO/TO 三种步态事件触发条件随机进行，每组2分钟，自动上传CSV。","published_at":"2026-09-12T01:04:32.2137113Z"}
