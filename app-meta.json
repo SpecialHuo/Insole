@@ -1,1 +1,1 @@
-{"version":"1.0.42","build":43,"file":"insole-app-v1.0.42-43-07d141bebb52.apk","size":18729763,"sha256":"07d141bebb523906622aeb4ecdff1b3cb842ba4f167f35aa73796a5d4e461857","notes":"Rename StepTime to StrideTime","published_at":"2026-10-14T09:36:30.6544419Z"}
+{"version":"1.0.43","build":44,"file":"insole-app-v1.0.43-44-47c99a982df1.apk","size":18729763,"sha256":"47c99a982df199e9dacb8cd41fe61dd6981b1e282a58a94992fa0d9b65805a2d","notes":"Auto-scale StrideTime Y axis; remove experiment descriptions and place controls below chart","published_at":"2026-10-15T02:30:25.7408382Z"}
