@@ -1,1 +1,1 @@
-{"version":"1.0.47","build":48,"file":"insole-app-v1.0.47-48-a32576644e33.apk","size":18795299,"sha256":"a32576644e339f3f15c608a3d34f803653b9632fd9e16db4a7b809c7f1e86b23","notes":"修复断连后旧解析结果回流、设备重启后丢包统计基线和实际 MTU 显示；兼容固件 v0.6.39 通信队列修复。","published_at":"2026-10-20T09:28:22.4728169Z"}
+{"version":"1.0.48","build":49,"file":"insole-app-v1.0.48-49-ab28b80fceae.apk","size":18795299,"sha256":"ab28b80fceae3138328c437cb398afbbd79540f289ed056dbb6eff6758654c19","notes":"","published_at":"2026-10-21T03:38:01.3273025Z"}
