@@ -1,1 +1,1 @@
-{"version":"1.0.49","build":50,"file":"insole-app-v1.0.49-50-89c8e74bea98.apk","size":18795299,"sha256":"89c8e74bea987bb824ea33e680774bd9a4ef097955cd31465c5d15404a1335c7","notes":"Android App 1.0.49+50；配合固件 v0.6.47 使用。","published_at":"2026-10-26T13:48:33.5669234Z"}
+{"version":"1.0.50","build":51,"file":"insole-app-v1.0.50-51-fc2d82de62a5.apk","size":18729635,"sha256":"fc2d82de62a5bff5a3dad3e5f3f314986b131f3c12dbe266d7bcf1bbd827d5bb","notes":"Android App 1.0.50+51；完成手机端审查整改，统一微对比色阶与文字颜色，顶部英文标题保留蓝色。配合固件 v0.6.47 使用。","published_at":"2026-10-27T07:32:34.0266416Z"}
