@@ -1,7 +1,7 @@
 {
-  "version": "1.0.10",
-  "file": "firmware-five-node-v1.0.10-82259ae16d3f.bin",
-  "size": 1231056,
-  "sha256": "82259ae16d3f1f5ee312b2278c047b45f071c911e3160097296a42fb2f047fe2",
-  "crc32": "05F05E1A"
+  "version": "1.0.11",
+  "file": "firmware-five-node-v1.0.11-9e063c6179f6.bin",
+  "size": 1229296,
+  "sha256": "9e063c6179f6ea63e4c4140f59e28e8c850c3cbf30511c247112221cfd589795",
+  "crc32": "EE59CA7E"
 }
