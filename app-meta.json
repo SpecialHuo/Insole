@@ -1,1 +1,1 @@
-{"version":"1.0.75","build":76,"file":"insole-app-v1.0.75-76-3e6310284f78.apk","size":18729823,"sha256":"3e6310284f7895c8a2568d5b2d33eb57ba61e64467eafacb9d38aabf9bdee3ed","notes":"断线重连后自动读取双鞋诊断，显示日志读取状态，记录 GATT 写入和遥测、ESP-NOW 及对时信息。","published_at":"2026-11-28T08:46:52.5619733Z"}
+{"version":"1.0.76","build":77,"file":"insole-app-v1.0.76-77-73a04e63f2c1.apk","size":18729823,"sha256":"73a04e63f2c1d4f82f439f15767aac6ac53ae723fd68980694f26075eb544110","notes":"记录正式实验双脚节奏故障及停止确认结果，标明双鞋日志的时间覆盖范围，修复批量控制回包、实验恢复判定和数据导出。","published_at":"2026-11-28T09:19:32.6449551Z"}
